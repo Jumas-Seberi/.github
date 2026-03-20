@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./logo.jpeg"></img>
+<img src="./banner.png"></img>
 
 # 🕊️ Jumas Seberi
 
